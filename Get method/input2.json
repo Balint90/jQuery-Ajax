@@ -1,0 +1,26 @@
+{
+    "address": {
+        "city": "NewYork",
+        "postalCode": "10044",
+        "state": "NY",
+        "streetAddress": "33 Street"
+    },
+    "age": 25,
+    "firstName": "Laurence",
+    "isAlive": true,
+    "lastName": "Svekis",
+    "phoneNumbers": [
+        {
+            "number": "1222-1234",
+            "type": "home"
+        },
+        {
+            "number": "333567-1234",
+            "type": "office"
+        },
+        {
+            "number": "123 444-1234",
+            "type": "mobile"
+        }
+    ]
+}
